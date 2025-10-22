@@ -1,3 +1,3 @@
 console.log("hello there ");
 alert("hi man");
-const echoComman = false
+const echoComman = true;
