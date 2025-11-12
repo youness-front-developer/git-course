@@ -5,3 +5,6 @@ const echoComman = true;
 const someValues = "";
 
 const changedValue = true;
+
+const testVAr = null;
+
